@@ -1,9 +1,13 @@
-# UnixCube
+# UNIXCube
 
-Import asset unity project
-Import project setting to unity project
+Function: Supposed to be image gallery with photos on cube, but it's not available yet.
+  Currently it only shows UNIX 2017 logo.
 
-images on cube function not available yet.
-Will be replaced by UNIX logo for the time being.
+How to use it:
+1. Download "UNIXCube.apk" to your Android device
+2. Install "UNIXCube.apk"
+3. Print or use another devices to show "target_image.jpg"
+4. Open UNIXCube and point your camera on "target_image.jpg"
+5. Enjoy
 
-.apk not available yet
+UNIX is the name of to-be-HMIF 2017
